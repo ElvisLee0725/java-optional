@@ -10,6 +10,7 @@ public class Main {
 //            System.out.println(numExist.get());
 //        }
 
+        // Use method reference to replace lambda expression to make code more readable
 //        numExist.ifPresent(System.out::println);
 //        numNotExist.ifPresent(System.out::println);
 
